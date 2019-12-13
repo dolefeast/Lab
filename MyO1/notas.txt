@@ -1,0 +1,8 @@
+Algunas cosas que decirte, que bien podría decírtelas dado que vives en mi puto piso pero bueno.
+
+Lo mío ya lo tienes todo, aquí está tb lo de José.
+En la práctica 1(máquina de Jose) al final vas a ver que la gravedad le da 17m/s² lo cual es lógico por que somos unos putos inútiles. La regresión le da un zurullo, por que por ejemplo le da que R²(coeficiente de correlación) = 0.988 etc, cuando una buena regresión tiene por lo menos 3 9s. El valor de g que le da es INCOMPATIBLE por que está a más de 2 sigmas del valor 'real', que está en torno a 9.8m/s². Esto se puede deber a muchas cosas, entre ellas a la alta imprecisión del montaje(si te apetece mencionar que necesitamos usar un metrónomo para consrguir buena cordinación entre nosotros), a la alta imprecisión del ojo humano, etc. 
+
+Por otro lado, la práctica 2 está mejor. Aunque no lo ha puesto, dice que la inercia de la esfera es 2/5, lo que nos indica que es una esfera maciza(la de la hueca es 2/3)(comparando los valores obtenidos con el momento de inercia para una esfera maciza y una hueca bla bla bla). En la última, no es muy claro, pero pone que n(ordenada en el origen) es no sé qué, y que la inercia de la barra(calculada) es un no sé qué muy parecido, lo que nos indica que los cilindros se pueden considerar masas puntuales(por que T² = 4pi²/k( (I_barra + I_cilindros con respecto a su cm) + 2Md²), donde d es la distancia de los cilindros al centro de la barra. Si los cilindros fueran puntos, entonces I_cilindros = 0, lo que nos deja que n = 4pi²Ib/k. Como n y 4pi²Ib/k se parecen tanto, entonces es que los cilindros se pueden considerar puntos).
+
+Eso son mis notas de los trabajos de este menda.
